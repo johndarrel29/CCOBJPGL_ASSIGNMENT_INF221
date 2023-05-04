@@ -40,6 +40,6 @@ public class HumanExplorer implements Explorer {
 
     @Override
     public void visit(Uranus uranus) {
-        System.out.println("hahahah ur-anus");
+        System.out.println("grabee ang lawak ng uranus ako na lng kasi..");
     }
 }
